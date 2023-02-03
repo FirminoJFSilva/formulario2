@@ -1,0 +1,9 @@
+body {
+    width: 50%;
+    margin: auto;
+    padding-top: 35px;
+}
+
+.form-group {
+        margin-bottom: 1rem;
+}
